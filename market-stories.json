@@ -1,0 +1,19 @@
+{
+  data: [
+    {
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6b2GZI11B31scODRlqdWegMpkqfoTEkZFA&usqp=CAU",
+      title: "The Coldest Sunset",
+      content: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum consequatur dolore repellat animi, qui voluptatum ex dolores amet reiciendis est nesciunt culpa tempore repudiandae consectetur iste ullam eligendi nulla sit."
+    },
+    {
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVcDmW1dWg-ZMos0oNfbW8DlJ1k75VHQQUw&usqp=CAU",
+      title: "The Warmest Sunrise",
+      content: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum consequatur dolore repellat animi, qui voluptatum ex dolores amet reiciendis est nesciunt culpa tempore repudiandae consectetur iste ullam eligendi nulla sit."
+    },
+    {
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpigArkKZX7bK9ITGsKmtwDMTiRu7RM8H8B1eXx3yAtWRiPLCJoLinWNb22St1FKcw-EI&usqp=CAU",
+      title: "The Chillest summer",
+      content: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum consequatur dolore repellat animi, qui voluptatum ex dolores amet reiciendis est nesciunt culpa tempore repudiandae consectetur iste ullam eligendi nulla sit."
+    },
+  ]
+}
